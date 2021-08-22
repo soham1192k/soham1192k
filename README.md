@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soham1192k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soham1192k)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **soham1192k/soham1192k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
